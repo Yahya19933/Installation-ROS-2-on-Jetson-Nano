@@ -3,7 +3,7 @@ Installing ROS2 Foxy Fitzroy on Jetson Nano
 
 
 ## Installation Ubuntu on Jetson Nano
-First download xubuntu and balena, after that, should be burn Ubuntu OS into flash memory or card using balena software. Then, need to Install the Ubuntu system on Jetson Nano
+First download [xubuntu](https://forums.developer.nvidia.com/t/xubuntu-20-04-focal-fossa-l4t-r32-3-1-custom-image-for-the-jetson-nano/121768) and [balena](https://www.balena.io/etcher/), after that, should be burn Ubuntu OS into flash memory or card using balena software. Then, need to Install the Ubuntu system on Jetson Nano
 
 ## Installation ROS2 Foxy Fitzroy on Jetson Nano
 
